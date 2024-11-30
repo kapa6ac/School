@@ -28,4 +28,4 @@ foo@root# apt install python
 ```
 
 После множества букав у вас будет установлен Python
-## Другие дистрибутивы - wellcome в личку
+## Другие дистрибутивы - wellcome в личку  :suspect:
