@@ -46,9 +46,9 @@ sudo apt install ./<file>.deb
 Все жутко фонарно. 
 File - NewFile - выбрать PythonFile
 вставить код:  
-'''python
+```python
 print("Hellow WORLD!!!")
-'''
+```
 На вопрос сохранить - сохраняем в любимо месте с любимым именем.  
 
 Если получилось то можем смело вешать себе первую :medal_sports:
