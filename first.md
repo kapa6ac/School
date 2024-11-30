@@ -29,3 +29,14 @@ foo@root# apt install python
 
 После множества букав у вас будет установлен Python
 ## Другие дистрибутивы - wellcome в личку  :suspect:
+
+<a id='t02'></a>  
+# Установка VScode  
+Вне зависимости от ОС в которой работаем топам [сюда](https://code.visualstudio.com/download) и качаем дистрибутив под себя. Там все понятно нативно.
+## Для Windows  
+Скачали, запустили, "далее-далее-ОК"
+## Для Ubuntu  
+По обыкновению все немного сложнее :laughing:
+```console
+sudo apt install ./<file>.deb
+```
