@@ -40,3 +40,7 @@ apt install python
 ```console
 sudo apt install ./<file>.deb
 ```
+<a id='t03'></a>  
+# Первый проект!!!!
+[](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h2dnlnNWVzYTY0M2R0dnptN2hqamVlY2ZuMXByZjd1eW51NWd3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RoiB2DtCekdtOOdKbV/giphy.gif)
+Все жутко фонарно. Если получилось то можем смело вешать себе первую :medal_sports:
