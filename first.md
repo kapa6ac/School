@@ -25,4 +25,4 @@ foo@root# apt update
 foo@root# apt upgrade
 foo@root# apt install python
 ```
-## Другие дистрибутивы - wellcone в личку
+## Другие дистрибутивы - wellcome в личку
