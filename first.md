@@ -22,9 +22,9 @@
 ## Ununtu
 Тут вы взрослые перцы и все делаем в консоли :wink:
 ```console
-foo@root# apt update
-foo@root# apt upgrade
-foo@root# apt install python
+apt update
+apt upgrade
+apt install python
 ```
 
 После множества букав у вас будет установлен Python
